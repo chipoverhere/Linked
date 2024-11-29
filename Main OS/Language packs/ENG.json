@@ -57,5 +57,9 @@
     "shutdownmes1" : "Broadcast from DEFAULT:",
     "shutdownmes2" : "System about to shutdown, save your work NOW!",
     "github1" : "Github? Github! we now has our own repo on github!",
-    "github2" : "Check it out! https://github.com/chipoverhere/Linked"
+    "github2" : "Check it out! https://github.com/chipoverhere/Linked",
+    "lng1" : "Name of the language packs to change to :",
+    "lng2" : "Tip : goto ",
+    "lng3" : "https://github.com/chipoverhere/Linked/tree/main/Main%20OS/Language%20packs",
+    "lng4" : "For name of some language packs!(Official)"
 }
