@@ -44,7 +44,7 @@
     "Penapp_Installed" : "Penapp : installed",
     "Penapp_notfound" : "Penapp : App not found",
     "Penapp_commandnotfound" : "Penapp command not found",
-    "loadrootwarn" : "echo do you want to load the root file? it will delete your data.",
-    "" : ""
+    "loadrootwarn" : "echo Do you want to load the root file? it will delete your data.",
+    "see$$view" : "Viewing with See$$"
 
 }
