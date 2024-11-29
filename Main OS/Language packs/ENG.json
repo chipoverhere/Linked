@@ -55,5 +55,7 @@
     "cdcompl" : "Change directory complete",
     "uploadfile" : "File uploaded",
     "shutdownmes1" : "Broadcast from DEFAULT:",
-    "shutdownmes2" : "System about to shutdown, save your work NOW!"
+    "shutdownmes2" : "System about to shutdown, save your work NOW!",
+    "github1" : "Github? Github! we now has our own repo on github!",
+    "github2" : "Check it out! https://github.com/chipoverhere/Linked"
 }
