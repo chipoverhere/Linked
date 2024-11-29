@@ -44,6 +44,7 @@
     "Penapp_Installed" : "Penapp : installed",
     "Penapp_notfound" : "Penapp : App not found",
     "Penapp_commandnotfound" : "Penapp command not found",
+    "Penapp_Untrust_Source" : "Are you sure want to install this app on your OS? Is could broke the system.",
     "loadrootwarn" : "echo Do you want to load the root file? it will delete your data.",
     "see$$view" : "Viewing with See$$",
     "ivmask1" : "echo set your file a name",
