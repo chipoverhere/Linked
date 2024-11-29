@@ -43,6 +43,8 @@
     "Penapp_line7" : "Jokebox GUI API : add GUI to jokebox (WIP this will complete soon after chipx cuz the gui need chipx to run)",
     "Penapp_Installed" : "Penapp : installed",
     "Penapp_notfound" : "Penapp : App not found",
-    "Penapp_commandnotfound" : "Penapp command not found"
+    "Penapp_commandnotfound" : "Penapp command not found",
+    "loadrootwarn" : "echo do you want to load the root file? it will delete your data.",
+    "" : ""
 
 }
