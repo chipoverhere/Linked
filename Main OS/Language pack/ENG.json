@@ -38,5 +38,7 @@
     "Penapp_line5" : "KBB : Let you play rock,paper and scissors with an bot",
     "Penapp_line6" : "Chipx : GUI framework (wip)",
     "Penapp_line7" : "Jokebox GUI API : add GUI to jokebox (WIP this will complete soon after chipx cuz the gui need chipx to run)",
-    "" : ""
+    "Penapp_Installed" : "Penapp : installed",
+    "Penapp_notfound" : "Penapp : App not found",
+    "Penapp_commandnotfound" : "Penapp command not found"
 }
