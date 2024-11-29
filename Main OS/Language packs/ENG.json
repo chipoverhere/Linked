@@ -1,5 +1,6 @@
 {
-    "" : "If you see this, maybe the language pack is broken, contact the dev to fix this bug.",
+    "" : "If you see this, maybe the language pack is broken, contact the dev to fix this bug.",    
+    "cldata" : "Saved data to the cloud every 120 seconds.",
     "wellcome": "~~~~Wellcome to Peniux !, press space to start!~~~~~",
     "wellcome2": "~~~~Create files are now available!~~~~",
     "wellcome3": "~~~~Also, we have apps, you can make an app too!~~~~",
