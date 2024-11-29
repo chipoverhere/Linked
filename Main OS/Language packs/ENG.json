@@ -52,5 +52,7 @@
     "ivmediting" : "Your're in ivm editor, type anything to write text, type 'exitVMSK' to exit and save, type 'clearVMSK' to clear the all the text",
     "ivmexit" : "exited ivm editor",
     "cdcompl" : "Change directory complete",
-    "uploadfile" : "File uploaded"
+    "uploadfile" : "File uploaded",
+    "shutdownmes1" : "Broadcast from DEFAULT:",
+    "shutdownmes2" : "System about to shutdown, save your work NOW!"
 }
