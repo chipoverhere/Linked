@@ -27,6 +27,7 @@
     "helpmenu_line13": "sudo shutdown : stop the project",
     "helpmenu_line14": "clear : clear your console",
     "helpmenu_line15": "sudo upload : upload a file to Peniux",
+    "NotRecomend" : "We dont recomend to use below commands.",
     "helpmenu_line16": "cat txt : create a txt file",
     "helpmenu_line17": "see$ TXT (number) : see content of a txt file",
     "helpmenu_line18": "example : see$ TXT 1 : view what in the text 1",
