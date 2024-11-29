@@ -47,6 +47,7 @@
     "loadrootwarn" : "echo Do you want to load the root file? it will delete your data.",
     "see$$view" : "Viewing with See$$",
     "ivmask1" : "echo set your file a name",
+    "ivmask2" : "echo do you want to write text to 1,2 or 3?",
     "ivmediting" : "Your're in ivm editor, type anything to write text, type 'exitVMSK' to exit and save, type 'clearVMSK' to clear the all the text",
     "ivmexit" : "exited ivm editor",
     "cdcompl" : "Change directory complete",
